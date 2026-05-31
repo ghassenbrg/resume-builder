@@ -1,0 +1,242 @@
+{
+  "contact": {
+    "fullname": "Ghassen Bargougui",
+    "address": "Fukuoka, Japan",
+    "email": "ghassen.brg16@gmail.com",
+    "phone": "+81 70 8502 9039",
+    "linkedin": "linkedin.com/in/ghassenbrg"
+  },
+  "summary": "Application Engineer with 6+ years of experience building and modernizing scalable enterprise systems, currently contributing to fintech platforms supporting 25M+ users in Japan. Strong in Java (Spring Boot, MicroProfile), microservices, and API architecture, with full-stack experience in Angular and Vue/Nuxt. Hands-on in hybrid cloud transformation, Kubernetes, and CI/CD automation, with a focus on clean architecture and resilient, high-performance systems. Oracle Certified Java SE 11 Developer. Fluent in English and French, Arabic (native), with basic Japanese.",
+  "education": [
+    {
+      "university": "ESPRIT (Private Higher School of Engineering and Technology), Tunis, Tunisia",
+      "graduation": "July 2023",
+      "program": "Engineer’s Degree, Software Engineering"
+    },
+    {
+      "university": "ISIMM (Higher Institute of Computer Science and Mathematics), Monastir, Tunisia",
+      "graduation": "June 2019",
+      "program": "Bachelor’s Degree, Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        "Java",
+        "TypeScript",
+        "SQL",
+        "JavaScript",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "skills": [
+        "Spring Boot",
+        "MicroProfile",
+        "Jakarta EE (Java EE)",
+        "Hibernate",
+        "JPA",
+        "Angular",
+        "Vue.js",
+        "Nuxt.js",
+        "PrimeNG",
+        "JUnit",
+        "Camunda BPM",
+        "NestJS",
+        "Node.js"
+      ]
+    },
+    {
+      "category": "API & Microservices",
+      "skills": [
+        "RESTful API Design",
+        "OpenAPI",
+        "Spring Cloud",
+        "ActiveMQ"
+      ]
+    },
+    {
+      "category": "Databases",
+      "skills": [
+        "PostgreSQL",
+        "MySQL",
+        "Oracle (PL/SQL)",
+        "MongoDB"
+      ]
+    },
+    {
+      "category": "DevOps & Tools",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "GitLab CI/CD",
+        "Maven",
+        "Git",
+        "Nginx",
+        "WildFly",
+        "Tomcat",
+        "AWS",
+        "GCP",
+        "JProfiler",
+        "SonarQube",
+        "Linux",
+        "Jira",
+        "Confluence"
+      ]
+    },
+    {
+      "category": "Security",
+      "skills": [
+        "Keycloak (OAuth2, OIDC, JWT)",
+        "Linux Server Management"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Rakuten",
+      "location": "Fukuoka, Japan",
+      "position": "Application Engineer",
+      "duration": "Dec 2025 – Present",
+      "bullets": [
+        "Member of the Technology Incubation Team, contributing to architecture design, modernization, and cloud transformation of Rakuten Card core systems.",
+        "Design, develop, and maintain backend services for large-scale card payment and credit management platforms.",
+        "Develop private and public APIs for secure, efficient integration across internal and customer-facing applications.",
+        "Contribute to modernization initiatives across legacy and new systems, including transition from Java-based applications to modern JavaScript/SSR-based architectures.",
+        "Contribute to a hybrid cloud migration program from on-premise to Google Cloud Platform (GCP), including cloud-native refactoring, CI/CD implementation, and containerized deployment strategies.",
+        "Conduct code reviews, promote engineering best practices, and collaborate closely with Product Owners and cross-functional teams."
+      ],
+      "positions": []
+    },
+    {
+      "company": "Sogeti (on mission at BGL BNP Paribas)",
+      "location": "Luxembourg",
+      "position": "Software Engineer",
+      "duration": "Feb 2025 – Nov 2025",
+      "bullets": [
+        "Developed and maintained internal banking applications using Java (Spring Boot, Hibernate), Angular, and PostgreSQL/Oracle, with strong focus on security and performance.",
+        "Built and optimized RESTful APIs and contributed to the design of microservices, ensuring clean service boundaries and robust integration with internal and external systems.",
+        "Participated in architectural and system design discussions with architects and cross-functional teams, helping to align solutions with enterprise standards and business requirements."
+      ],
+      "positions": []
+    },
+    {
+      "company": "CBTW",
+      "location": "Luxembourg",
+      "position": "Java Full-Stack Developer",
+      "duration": "Sept 2024 – Jan 2025",
+      "bullets": [
+        "Designed and developed microservices architectures, migrating legacy monolithic components to modular, independently deployable services using Spring Boot, Angular, and PostgreSQL.",
+        "Engineered RESTful APIs for seamless integration between backend services and external systems, applying best practices for API versioning, security, and documentation.",
+        "Refactored monolithic components into microservices, improving scalability and maintainability.",
+        "Automated application deployment with Jenkins & Docker, reducing manual release efforts."
+      ],
+      "positions": []
+    },
+    {
+      "company": "VERMEG for Banking and Insurance",
+      "location": "Tunis, Tunisia",
+      "position": "",
+      "duration": "Oct 2019 – Aug 2024",
+      "bullets": [],
+      "positions": [
+        {
+          "position": "Analyst Software Engineer",
+          "duration": "Jan 2023 – Aug 2024",
+          "bullets": [
+            "Owned core backend components and served as primary contact for cross-team design clarifications, supporting integration and solution delivery.",
+            "Collaborated with business, architects, and framework teams in requirements analysis and solution design, ensuring scalable and maintainable microservices and API contracts.",
+            "Produced UML and sequence diagrams to document system designs and support technical decision-making.",
+            "Proposed and validated technical solutions for client requirements, supporting colleagues and facilitating cross-team alignment."
+          ]
+        },
+        {
+          "position": "Software Engineer",
+          "duration": "Oct 2019 – Dec 2022",
+          "bullets": [
+            "Led backend engineering efforts for multiple high-traffic insurance & financial applications.",
+            "Designed and optimized high-volume transactional APIs, ensuring high availability and performance.",
+            "Implemented Keycloak-based authentication & RBAC, improving access security.",
+            "Reduced API response time by 50% through query optimization and caching strategies.",
+            "Built automated workflows using ActiveMQ for bulk processing, increasing efficiency by 40%."
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "BGL BNP Paribas Mandate Management (Full-Stack Engineer)",
+      "duration": "2025 – Present",
+      "keyHighlight": "Developing mandate management features for banking systems in a fully Agile tribe and squad.",
+      "bullets": [
+        "Deliver end-to-end solutions for customer mandate management using Spring Boot (including batch processing) and Angular with Angular Material.",
+        "Ensure high code quality and robust unit testing, leveraging SonarQube for static analysis and compliance.",
+        "Automate build and deployment pipelines with Maven, Git, and Jenkins.",
+        "Collaborate cross-functionally within a fast-paced Agile environment, participating in all ceremonies and code reviews."
+      ]
+    },
+    {
+      "title": "SalesFlow (Lead Developer)",
+      "duration": "2023 – 2024",
+      "keyHighlight": "Led migration to Camunda BPM-based architecture, reducing manual processes by 30%.",
+      "bullets": [
+        "Conducted functional analysis and client workshops to refine business requirements.",
+        "Designed and developed high-performance REST APIs and scalable microservices.",
+        "Implemented a multi-threaded batch processing system, optimizing large insurance transactions.",
+        "Integrated ActiveMQ for bulk processing, increasing transaction speed by 40%."
+      ]
+    },
+    {
+      "title": "PackManager (Backend Developer)",
+      "duration": "2022 – 2023",
+      "keyHighlight": "Developed a configuration platform for insurance products, streamlining offer creation.",
+      "bullets": [
+        "Analyzed client requirements and developed UML models.",
+        "Designed and optimized RESTful APIs for flexible insurance product customization.",
+        "Refactored legacy code to improve maintainability and reduce technical debt.",
+        "Improved system execution using JProfiler, enhancing response time by 35%."
+      ]
+    },
+    {
+      "title": "Insurance Pricing Module (Full-Stack Developer)",
+      "duration": "2020 – 2021",
+      "keyHighlight": "Led functional analysis and actuarial feature development in Java.",
+      "bullets": [
+        "Designed and implemented features for insurance product configuration and premium calculation.",
+        "Developed actuarial functions in Java with unit testing.",
+        "Optimized data integration and pricing configuration testing with Apache POI."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "category": "Oracle",
+      "skills": [
+        "Oracle Certified Professional, Java SE 11 Developer (Sept 2022) -- Certification Badge: bit.ly/ocp11gb"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Fluent"
+    },
+    {
+      "language": "French",
+      "level": "Fluent"
+    },
+    {
+      "language": "Japanese",
+      "level": "Basic"
+    }
+  ]
+}
